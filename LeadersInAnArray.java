@@ -6,7 +6,6 @@ public class LeadersInAnArray {
         int[] Arr={16, 17, 4, 3, 5, 2};
         int size=Arr.length;
         int max=Arr[size - 1];
-
         ArrayList<Integer> list = new ArrayList<>();
 
         int[] result=new int[size];
